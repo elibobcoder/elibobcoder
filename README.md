@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 , it's Eli!
+- 🔭 I’m currently working on JavaScript, TypeScript, React, Next.js, and Node.js
+- 🌱 I’m currently learning Web3
+- 📫 You can reach out to me at elicampos.821@gmail.com
 
-<!--
-**elibobcoder/elibobcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,angular,vue,jest,cypress,graphql,babel,d3,styledcomponents,materialui,tailwind,bootstrap,html,css,sass,less,jquery,nestjs,php,laravel,django,apollo,aws,docker,electron,figma,xd,ps,firebase,flask,postgres,mongodb,mysql,sequelize,postman,py,redis,supabase,sentry,npm,yarn,pnpm,grafana,git,gitlab,bitbucket,md,vscode,bash,powershell,heroku,jenkins,linux,ubuntu" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Social profile
+<p align="left">
+  <a href="https://www.linkedin.com/in/eli-c-4abbb82a7">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
