@@ -1,6 +1,6 @@
 ## Hi 👋 , it's Eli!
-- 🔭 I’m currently working on JavaScript, TypeScript, React, Next.js, and Node.js
-- 🌱 I’m currently learning Web3
+- 🔭 I’m currently working on JavaScript, TypeScript, React, Next.js, Node.js, and Python
+- 🌱 I’m currently learning AI
 - 📫 You can reach out to me at elicampos.821@gmail.com
 
 ## Skills
