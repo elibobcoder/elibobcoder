@@ -14,4 +14,7 @@
   <a href="https://www.linkedin.com/in/eli-c-4abbb82a7">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  <a href="https://codepen.io/elicampos-821">
+    <img src="https://skillicons.dev/icons?i=codepen" />
+  </a>
 </p>
