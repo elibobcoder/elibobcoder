@@ -11,7 +11,7 @@
 
 ## Social profile
 <p align="left">
-  <a href="https://www.linkedin.com/in/eli-c-4abbb82a7">
+  <a href="https://www.linkedin.com/in/elicampos512/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://codepen.io/elicampos-821">
