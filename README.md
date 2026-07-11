@@ -1,5 +1,4 @@
 ## Hi 👋 , it's Eli!
-- 🔭 I'm currently working with JavaScript, TypeScript, React, Next.js, Node.js, and Python, building scalable full-stack applications.
 - 🌱 I'm currently expending my expertise in AI, focusing on LLMs, AI agents, and intelligent applications while leveraging my full-stack engineering background.
 
 ## Skills
