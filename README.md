@@ -1,5 +1,5 @@
 ## Hi 👋 , it's Eli!
-- 🌱 I'm currently expending my expertise in AI, focusing on LLMs, AI agents, and intelligent applications while leveraging my full-stack engineering background.
+- 🌱 I'm currently expanding my expertise in AI, focusing on LLMs, AI agents, and intelligent applications while leveraging my full-stack engineering background.
 
 ## Skills
 <p align="left">
