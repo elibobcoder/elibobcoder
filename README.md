@@ -1,4 +1,4 @@
-<img width="512" height="26" alt="image" src="https://github.com/user-attachments/assets/aef86366-d4b8-4625-a070-a01661bfbda4" />## Hi 👋 , it's Eli!
+Hi 👋 , it's Eli!
 - 🌱 I'm currently expanding my expertise in AI, focusing on LLMs, AI agents, and intelligent applications while leveraging my full-stack engineering background.
 
 ## Skills
