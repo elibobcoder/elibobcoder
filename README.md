@@ -10,7 +10,7 @@ Hi 👋 , it's Eli!
 
 ## Social profile
 <p align="left">
-  <a href="https://www.linkedin.com/in/eli-christopher-c-791346429/">
+  <a href="https://www.linkedin.com/in/eli-c-campos-47b301448/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://codepen.io/elicampos-821">
